@@ -20,8 +20,8 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
-cd crud-app
+git clone [https://github.com/pruthvidarji1993/react-CRUD-app.git]
+cd react-CRUD-app
 ```
 
 Install dependencies:
